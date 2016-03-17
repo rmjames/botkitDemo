@@ -17,4 +17,3 @@ x.on('direct_message,mention,direct_mention',function(bot,message) {
   })
 });
 
-x.on();
