@@ -15,4 +15,6 @@ x.on('direct_message,mention,direct_mention',function(bot,message) {
     if (err) { console.log(err) }
     bot.reply(message,'Thaats right, Im Tyrone Biggums')
   })
-})
+});
+
+x.on();
