@@ -13,7 +13,7 @@ x.on('direct_message,mention,direct_mention',function(bot,message) {
     name: 'syringe',
   },function(err) {
     if (err) { console.log(err) }
-    bot.reply(message,'Thaats right, Im Tyrone Biggums')
+    bot.reply(message,'Thats right, Im Tyrone Biggums')
   })
 });
 
